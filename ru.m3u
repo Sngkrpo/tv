@@ -99,6 +99,26 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist
 https://cdn-dvr.ntv.ru/Shef/index.m3u8
 #EXTINF:-1 tvg-id="Che.ru@SD" tvg-logo="https://i.imgur.com/ZOcDGpB.png" group-title="Криминал и детективы",Че! (Вне закона)
 http://flussonic.linkintel.ru/che/index.m3u8
+#EXTINF:-1 tvg-id="minimax-ms-crime" tvg-logo="" group-title="Криминал и детективы",MS Crime HD
+http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/15136/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Криминал и детективы",KBC-Криминальный Serial
+http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/11092/index.m3u8
+#EXTINF:-1 tvg-id="vf-kriminal" tvg-logo="" group-title="Криминал и детективы",VF Криминал
+http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/13093/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Криминал и детективы",VF След
+http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/13086/index.m3u8
+#EXTINF:-1 tvg-id="vf-taynsled" tvg-logo="" group-title="Криминал и детективы",VF Тайны следствия
+http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/13082/index.m3u8
+#EXTINF:-1 tvg-id="minimax-kriminal" tvg-logo="" group-title="Криминал и детективы",MM Криминал HD
+http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/13039/index.m3u8
+#EXTINF:-1 tvg-id="minimax-ussr-detektiv" tvg-logo="" group-title="Криминал и детективы",MM USSR Детектив HD
+http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/13096/index.m3u8
+#EXTINF:-1 tvg-id="minimax-agata" tvg-logo="" group-title="Криминал и детективы",MM Агата Кристи HD
+http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/13024/index.m3u8
+#EXTINF:-1 tvg-id="minimax-nuar" tvg-logo="" group-title="Криминал и детективы",MM Нуар HD
+http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/13045/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Криминал и детективы",Z! Crime HD
+http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/14136/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.ru@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Документальные",National Geographic
 http://stream.mcquack.net/116/index.m3u8
 #EXTINF:-1 tvg-id="365daysTV.ru@SD" tvg-logo="https://i.imgur.com/NfnAiTR.png" group-title="Документальные",365 дней ТВ
