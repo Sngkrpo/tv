@@ -95,6 +95,8 @@ https://cityeden.catcast.tv/content/41327/index.m3u8
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Shef.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/shef_llive.jpg" group-title="Криминал и детективы",Шеф
 https://cdn-dvr.ntv.ru/Shef/index.m3u8
+#EXTINF:-1 tvg-id="minimax-ms-crime" tvg-logo="" group-title="Криминал и детективы",MS Crime HD
+http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/15136/index.m3u8
 #EXTINF:-1 tvg-id="365daysTV.ru@SD" tvg-logo="https://i.imgur.com/NfnAiTR.png" group-title="Документальные",365 дней ТВ
 http://stream.mcquack.net/70/index.m3u8
 #EXTINF:-1 tvg-id="RTDocumentary.ru@Russian" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="Документальные",RTД
@@ -138,6 +140,8 @@ https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
 http://stream.mcquack.net/402/index.m3u8
 #EXTINF:-1 tvg-id="TNVPlanet.ru@SD" tvg-logo="https://i.imgur.com/ijA1zDw.png" group-title="Документальные",ТНВ-Планета
 https://fs.uplink.kz/tnv/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="box-mayday-hd" tvg-logo="" group-title="Документальные",BOX Mayday HD
+http://rhsbjv7k.tvclub.xyz/iptv/74SQ72P5LQUZV5/20159/index.m3u8
 #EXTINF:-1 tvg-id="AmediaHit.ru@SD" tvg-logo="https://i.imgur.com/a8ZBGBw.png" group-title="Кино",Amedia Hit
 http://stream.mcquack.net/162/index.m3u8
 #EXTINF:-1 tvg-id="Bollywood.ru@HD" tvg-logo="" group-title="Кино",Bollywood HD
